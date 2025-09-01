@@ -1,0 +1,30 @@
+{
+  "name": "ai-todo-assistant-backend",
+  "version": "1.0.0",
+  "description": "Backend for AI Todo Assistant - A public AI chatbot for task management",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "ai",
+    "chatbot",
+    "todo",
+    "task-management",
+    "gemini",
+    "google-ai"
+  ],
+  "author": "AI Assistant",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.2.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^5.1.0",
+    "mongoose": "^7.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

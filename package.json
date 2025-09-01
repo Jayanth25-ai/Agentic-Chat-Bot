@@ -1,0 +1,12 @@
+{
+  "name": "chat-bot",
+  "version": "1.0.0",
+  "description": "A sophisticated AI-powered chatbot built with **React** (frontend) and **Node.js** (backend), featuring **Google Gemini AI** integration and **comprehensive user authentication**. This is not just a simple chatbot - it's your comprehensive personal digital companion for productivity, knowledge, creativity, and personal growth with secure user account management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
